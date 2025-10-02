@@ -1,0 +1,2 @@
+ Episode        Step     Epsilon   MeanR@100   MeanLen@100  MeanLoss@100   MeanQ@100                  Time
+      10       14239       0.999    -135.675        1423.9        0.0000       0.000   2025-09-23T13:52:40
