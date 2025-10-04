@@ -1,1 +1,0 @@
- Episode        Step     Epsilon   MeanR@100   MeanLen@100  MeanLoss@100   MeanQ@100                  Time
